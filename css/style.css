@@ -1,0 +1,90 @@
+body{
+    background-color: #b3b1a8;
+    font-family: 'Century Gothic';
+
+}
+
+#menu{
+    font-family: 'Century Gothic';
+    font-size: 25px;
+    text-transform: uppercase;
+    
+}
+
+.carousel-inner{
+   
+    width: 100%;
+}
+
+hr{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#txt1{
+    color: rgb(0, 0, 0);
+    text-decoration: solid;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#rodape{   
+    padding-left: 40%;
+    margin-top: 1%;
+    
+}
+
+#tags{
+    padding-left: 32%;
+}
+
+#copyright{   
+    padding-left: 46.5%;
+    
+    
+}
+
+.footer .social{
+    text-align: center;
+    padding-bottom: 25px;
+    color: black;
+}
+
+#link{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+#img-carr{
+    opacity: 1;
+}
+
+#txt-carr{
+    font-weight: bolder;
+}
+
+#menuzao{
+    width: 100%;
+    position: relative;
+    position: fixed;
+    z-index: 30;
+    
+}
+
+#big-card{
+    text-align: justify ;
+}
+
+.card-body{
+    border-radius: 60%;
+}
+
+#card{
+    background-color: rgb(226, 223, 223);
+    border-radius: 5%;
+}
